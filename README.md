@@ -1,7 +1,7 @@
 # automatidata-exec-summary
 # Automatidata Executive Summary & Project Lab
 
-This repository contains materials for the **Automatidata NYC Taxi & Limousine project (Course 6)**, including the executive summary presentation, project lab notebook, and dataset.
+This repository contains materials for the **Automatidata NYC Taxi & Limousine project **, including the executive summary presentation, project lab notebook, and dataset.
 
 ## Contents
 
