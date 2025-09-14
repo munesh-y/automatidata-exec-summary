@@ -1,20 +1,33 @@
 # automatidata-exec-summary
-Executive summary PowerPoint presentation for the Automatidata NYC Taxi &amp; Limousine project (Course 6).
-# Automatidata Executive Summary
+# Automatidata Executive Summary & Project Lab
 
-This repository contains the executive summary PowerPoint presentation prepared for the **Automatidata NYC Taxi & Limousine Commission project (Course 6)**.  
+This repository contains materials for the **Automatidata NYC Taxi & Limousine project (Course 6)**, including the executive summary presentation, project lab notebook, and dataset.
 
-## File
-- `Activity-Exemplar_-Course-6-Automatidata-Executive-Summary.pptx`
+## Contents
 
-## About
-The presentation provides:
-- Key findings and recommendations.  
-- Executive-level insights from the Automatidata project.  
-- High-level summary suitable for business stakeholders.  
+- **Automatidata-Executive-Summary.pptx**  
+  Executive summary PowerPoint presentation highlighting key insights, recommendations, and findings from the Automatidata project.
+
+- **Automatidata-Project-Lab.ipynb**  
+  Jupyter notebook containing the hands-on lab work, data analysis, and modeling steps completed during the project.
+
+- **NYC-Yellow-Taxi-2017.csv**  
+  Yellow Taxi Trip dataset from 2017, used for analysis in the project lab notebook.
 
 ## Usage
-Download the PPTX file directly from this repository and open it in **Microsoft PowerPoint**, **Google Slides**, or any compatible presentation software.
 
----
+1. **Presentation**: Open the `.pptx` file using Microsoft PowerPoint, Google Slides, or LibreOffice Impress.  
+2. **Notebook**: Run the `.ipynb` file in Jupyter Notebook, JupyterLab, or Google Colab.  
+3. **Dataset**: Load the CSV into the notebook or any data analysis tool to reproduce results.
+
+## About the Project
+
+The Automatidata project explores **New York City Yellow Taxi data** to generate actionable insights for the Taxi & Limousine Commission (TLC). It includes:
+- Data preparation and cleaning  
+- Exploratory data analysis  
+- Key business insights  
+- Executive-level recommendations  
+
+
+
 
