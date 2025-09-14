@@ -1,4 +1,4 @@
-# automatidata-exec-summary
+# automatidata-executive-summary
 # Automatidata Executive Summary & Project Lab
 
 This repository contains materials for the **Automatidata NYC Taxi & Limousine project **, including the executive summary presentation, project lab notebook, and dataset.
